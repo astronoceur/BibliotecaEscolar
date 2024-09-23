@@ -1,0 +1,4 @@
+Diario de um banana,10/06/1864,MalcomX,Livro_Disponivel,null
+Drácula,26/05/1897,Bram Stoker,Livro_Disponivel,null
+Código limpo,16/07/2007,Grande Mestre da Computação,Livro_Disponivel,null
+Entrevista com o Vampiro,12/04/1976,Anne Rice,Livro_Emprestado,Luiza Marinho Diniz Schirmer
